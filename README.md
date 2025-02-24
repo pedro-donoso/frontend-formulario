@@ -15,7 +15,7 @@ npx create-next-app frontend
 }
 ```
 
-3. **EL BACKEND DEBE SEGUIR CORRIENDO**
+3. **EL BACKEND Y POSTGRESQL DEBEN SEGUIR EJECUTANDOSE**
 
 ```
 npm run start
